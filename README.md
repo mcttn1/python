@@ -1,2 +1,2 @@
 # python
-the basic python and some exercise
+the basic python and some exercises
